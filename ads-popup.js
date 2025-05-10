@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class='popup-social-icons'>
                     <a href='https://wa.me/905452603560' target='_blank'><span data-uk-icon='icon: whatsapp'/></a>
                     <a href='https://www.facebook.com/bucalee.soneer/' target='_blank'><span data-uk-icon='icon: facebook'/></a>
-                    <a href='https://www.instagram.com/jant_boyama_soner_ylmaz/' target='_blank'><span data-uk-icon='icon: instagram'/></a>
+                    <a href='https://www.instagram.com/jantboyama_sonerylmaz/' target='_blank'><span data-uk-icon='icon: instagram'/></a>
                     <a href='https://youtube.com/@sonerylmazjantonarmyenileme' target='_blank'><span data-uk-icon='icon: youtube'/></a>
                 </div>
             </div>
